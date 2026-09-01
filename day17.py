@@ -74,13 +74,7 @@ for j in range(n-1,0,-1):
     for j in range(1,i+1):
         print(j,end=" ")
     print() '''
-'''for i in range(1,a+1):
-    print(i)
-    if i==5:
-        continue
-    print("mohan")
-    if i==10:
-        break'''
+
 for i in range(1,a+1):
     if i==5:
         continue
